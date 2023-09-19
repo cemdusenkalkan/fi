@@ -12,7 +12,7 @@ First, I wanted to step on volatility & momentum seeking and maybe training a mo
 
 ## Volatility & Momentum Based Model
 
-![map](https://imgur.com/a/RKzvcxl)
+![map](https://imgur.com/1TOqzrr.png)
 
 # Overview of the model:
 
