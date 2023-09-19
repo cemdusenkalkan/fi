@@ -7,3 +7,25 @@ friends, and for future me.
 Mindmap:
 
 ![map](https://i.imgur.com/IsAUdUe.png)
+
+First, I wanted to step on volatility & momentum seeking and maybe training a model about it.
+
+## Volatility & Momentum Based Model
+
+![map](https://imgur.com/a/RKzvcxl)
+
+# Overview of the model:
+
+# Purpose and objectives:
+
+# Expected outcomes and benefits:
+
+# Data collection tools and platforms:
+
+# Types of models:
+
+# Training process:
+
+# Visualizing model predictions and actual outcomes:
+
+# Comparative analysis of different model results:
