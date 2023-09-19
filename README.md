@@ -14,15 +14,15 @@ First, I wanted to step on volatility & momentum seeking and maybe training a mo
 
 ![map](https://imgur.com/1TOqzrr.png)
 
-# Overview of the model:
+### Overview of the model:
 
-# Purpose and objectives:
+### Purpose and objectives:
 
-# Expected outcomes and benefits:
+### Expected outcomes and benefits:
 
-# Data collection tools and platforms:
+### Data collection tools and platforms:
 
-# Types of models:
+### Types of models:
 
 # Training process:
 
