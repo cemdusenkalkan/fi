@@ -24,8 +24,8 @@ First, I wanted to step on volatility & momentum seeking and maybe training a mo
 
 ### Types of models:
 
-# Training process:
+### Training process:
 
-# Visualizing model predictions and actual outcomes:
+### Visualizing model predictions and actual outcomes:
 
-# Comparative analysis of different model results:
+### Comparative analysis of different model results:
