@@ -35,13 +35,24 @@ The output of the model will be alerts or signals generated when it detects cond
 Implementation Considerations:
 Given the potential complexity of LSTM and GARCH models, the initial implementation may involve simpler machine learning algorithms and statistical techniques. The model will continuously evolve as the user's knowledge and expertise in these advanced models grow.
 
-### Purpose and objectives:
+### Purpose and objectives: 
+The main goal of this strategy is to use data and computational algorithms to find prospective profit-making opportunities in financial markets. Traders and investors can be better informed about possible price changes and alter their strategies by spotting moments of high volatility and momentum.
 
 ### Expected outcomes and benefits:
+Improved Accuracy: The model intends to deliver a more accurate evaluation of market conditions by combining both traditional indicators and machine learning.
+Adaptability: The model's approach to continual learning ensures that it stays relevant even as market dynamics change.
+Efficiency: By automating the process of spotting major market moves, time is saved and the possibility of human mistake is reduced.
 
 ### Data collection tools and platforms:
 
-### Types of models:
+APIs:
+Binance API: Offers real-time trading data, including volume, prices, and historical data.
+CoinGecko: Another reliable source for cryptocurrency data.
+Yahoo Fi: Another reliable source for financial data.
+Cleaning: Removing any outliers or erroneous data.
+Frequency: Depending on the trading strategy, we might opt for 15-min, hourly, or daily data. For higher-frequency trading, even 5-minute data could be useful.
+
+### Types of models: For now, I really don't know.
 
 ### Training process:
 
